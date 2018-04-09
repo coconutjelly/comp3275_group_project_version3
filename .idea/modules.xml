@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\806002693\Downloads\COMP3275 SMS Send Receive\comp3275_group_project_version3\app\app.iml" filepath="C:\Users\806002693\Downloads\COMP3275 SMS Send Receive\comp3275_group_project_version3\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/comp3275_group_project_version3.iml" filepath="$PROJECT_DIR$/.idea/comp3275_group_project_version3.iml" />
+      <module fileurl="file://C:\Users\806002693\Downloads\COMP3275 SMS Send Receive\comp3275_group_project_version3\.idea\comp3275_group_project_version3.iml" filepath="C:\Users\806002693\Downloads\COMP3275 SMS Send Receive\comp3275_group_project_version3\.idea\comp3275_group_project_version3.iml" />
     </modules>
   </component>
 </project>
